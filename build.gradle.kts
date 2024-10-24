@@ -39,8 +39,8 @@ subprojects {
 
 sonar {
   properties {
-    property "sonar.projectKey", "alvaro-salazar_zaproxy"
-    property "sonar.organization", "alvaro-salazar"
-    property "sonar.host.url", "https://sonarcloud.io"
+    property("sonar.projectKey", "alvaro-salazar_zaproxy")
+    property("sonar.organization", "alvaro-salazar")
+    property("sonar.host.url", "https://sonarcloud.io")
   }
 }
