@@ -2,7 +2,6 @@ import net.ltgt.gradle.errorprone.errorprone
 
 plugins {
     id("com.diffplug.spotless")
-    id("org.sonarqube") version "5.0.0.4638"
     id("com.github.ben-manes.versions") version "0.51.0"
     id("net.ltgt.errorprone") version "4.0.0"
     id("org.sonarqube") version "5.1.0.4882"
